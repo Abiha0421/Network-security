@@ -28,5 +28,3 @@ How to Ping?
 Open command prompt and enter ping www.cyberinsights.site and enter
 
 You can tell me the detail on my LinkedIn.
-
- gg
